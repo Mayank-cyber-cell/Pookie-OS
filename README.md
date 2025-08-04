@@ -40,16 +40,13 @@ git clone https://github.com/Mayank-cyber-cell/Pookie-OS.git
 cd Pookie-OS
 2. Run the Project
 No server or build tools required.
-
+```
 Just open index.html in your browser:
 
-bash
-Copy
-Edit
 start index.html
 Or simply host it using Netlify/Vercel.
 
-🛠️ Built With
+## 🛠️ Built With
 HTML
 
 Tailwind CSS
@@ -60,7 +57,7 @@ GSAP (for animations)
 
 Optional: localStorage, draggable logic, audio handling, etc.
 
-🧡 Personalization
+## 🧡 Personalization
 Want to make it your own?
 
 Edit images in the /assets folder
@@ -71,10 +68,8 @@ Update music file with your special song
 
 Fully modular — easy to adapt for any loved one ❤️
 
-📸 Preview
-<!-- Add screenshot if you have it -->
 
-📝 License
+## 📝 License
 This project is made with love by Mayank Kumar Shah.
 Feel free to remix, reuse, or turn it into your own digital love letter.
 
